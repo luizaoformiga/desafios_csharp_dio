@@ -9,7 +9,7 @@ A saída deve conter uma das mensagens conforme descrito acima.
 */
 
 using System;
-class Program {
+class MyClass {
     static void Main(string[] args) {
             
         string[] valores = Console.ReadLine().Split(' ');

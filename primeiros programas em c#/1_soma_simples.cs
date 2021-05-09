@@ -14,7 +14,7 @@ Imprima a variável SOMA com todas as letras maiúsculas, inserindo um espaço e
 
 
 using System;
-class Program
+class Soma_Simples
 {
     static void Main(string[] args)
     {

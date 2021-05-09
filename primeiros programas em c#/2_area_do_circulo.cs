@@ -11,7 +11,7 @@ Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exempl
 */
 
 using System; 
-class Classe {
+class AreaCirculo {
     static void Main(string[] args)
     {
       double pi = 3.14159, r;
